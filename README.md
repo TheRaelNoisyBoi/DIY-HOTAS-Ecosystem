@@ -9,7 +9,7 @@ This ecosystem is the result of an actively developed and continuously evolving 
 
 **Note:** This repository is dedicated solely to the software layer and electrical documentation. The mechanical 3D assets (STLs) required for assembly are distributed via Cults3D.
 
-[Get the Mechanical 3D Assets on Cults3D: NoisyBoeh](https://cults3d.com/en/users/NoisyBoeh/3d-models)
+[Get the 3D Assets on Cults3D](https://cults3d.com/en/users/NoisyBoeh/3d-models)
 
 ---
 
@@ -99,6 +99,26 @@ Toggles the logical output direction of the specified axis. Repeated execution r
 ### Module-Specific Functions
 * `ATB1`: Toggles Axis-to-Button (ATB) translation for primary ministicks, enabling digital Hat Switch emulation.
 * `ATB2`: Toggles Axis-to-Button translation for analog brake levers (Joystick module specific).
+
+---
+
+## Dependencies & Libraries
+To successfully compile and run the firmware modules across this repository, the following third-party and native libraries are required:
+
+* **Joystick** (by Matthew Heironimus)
+  * *Repository:* [MHeironimus/ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary)
+* **ADS1X15** (by Rob Tillaart)
+  * *Repository:* [RobTillaart/ADS1X15](https://github.com/RobTillaart/ADS1X15)
+* **PCF8575** (by Rob Tillaart)
+  * *Repository:* [RobTillaart/PCF8575](https://github.com/RobTillaart/PCF8575)
+* **Adafruit_DRV2605** (by Adafruit)
+  * *Repository:* [Adafruit_DRV2605_Library](https://github.com/adafruit/Adafruit_DRV2605_Library)
+
+---
+
+A sincere thank you to everyone in the flight simulation and DIY community on Cults3D who has downloaded the designs, shared feedback, and supported this project. Your continuous engagement directly drives the active development and refinement of these hardware modules. 
+
+Thank you for trusting my work and helping bring these projects to life!
 
 ---
 

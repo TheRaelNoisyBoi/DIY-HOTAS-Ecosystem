@@ -68,7 +68,7 @@ Active control system designed to provide realistic Force Feedback dynamics usin
 ## Bill of Materials (BOM)
 A comprehensive master list detailing all required electrical components, microcontrollers, sensors, and hardware across all modules is maintained in a centralized spreadsheet. This allows for efficient parts sourcing and project budgeting.
 
-[Access the Master BOM (.xlsx)](./BOM)
+[Access the Master BOM](./BOM)
 
 ---
 

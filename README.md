@@ -84,12 +84,13 @@ Multi-axis control for engine and avionics management.
 
 ### 3. Black Shark Helicopter Collective
 Rotary-wing collective pitch lever with twist throttle.
-* **I/O Capacity:** 2 analog axes (collective pitch and twist throttle, both hall-sensor based) and 32 digital inputs through two PCF8575 expanders in the grip.
-* **Mechanical Design:** Swappable grip connected through a 4-pin 360° pogo connector, so the twist throttle can rotate freely.
+* **I/O Capacity:** 2 analog axes (collective pitch and twist throttle, both hall-sensor based) and up to 32 digital inputs through two PCF8575 expanders in the grip.
+* **Mechanical Design:** Swappable grip connected through a 4-pin 360° pogo connector.
 
 <p align="center">
-  <img width="720" alt="collective grip v28" src="https://github.com/user-attachments/assets/10ee0ea5-df1a-4436-ac1a-b20b8c73f6a6" />
+ <img width="720" height="720" alt="collective grip V2" src="https://github.com/user-attachments/assets/8dc8e75e-06f4-4db2-a991-6f350031d4f6" />
 </p>
+
 
 ### 4. Rudder Pedals
 Pedal assembly for yaw axis manipulation and independent ground braking.
@@ -104,7 +105,7 @@ Active control system designed to provide realistic Force Feedback dynamics usin
 * **Development Status:** Active prototyping phase.
 
 <p align="center">
-  <img width="720" alt="FFB Joystick Base 3" src="https://github.com/user-attachments/assets/04c18008-3910-40e7-9fa6-aa12f22a305e" />
+  <img width="729" height="720" alt="FFB Joystick Base FINAL" src="https://github.com/user-attachments/assets/81861a97-d668-4743-9024-d6c802ef2795" />
 </p>
 
 ---

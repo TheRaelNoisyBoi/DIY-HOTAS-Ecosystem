@@ -1,7 +1,9 @@
 # DIY Flight Control Ecosystem - Firmware Architecture
 
 <p align="center">
-  <img width="780" alt="Hangar_v2" src="https://github.com/user-attachments/assets/b7710558-3cf9-41cd-b2a7-af7f84f8bb70" />
+
+<img height="720" alt="Hangar_v3" src="https://github.com/user-attachments/assets/4b4ac51c-df2a-4548-ae19-4cc29e991bdc" />
+  
 </p>
 
 This repository contains the unified firmware, technical documentation, configuration app releases and Bill of Materials (BOM) for a series of DIY flight simulation controllers.
@@ -66,10 +68,7 @@ Gimbal-based flight joystick featuring a modular grip attachment interface, comp
 * **Grip Variants:** Grip models engineered based on the geometry of the **Su-57 Felon**, **Su-27 Flanker**, **F-22 Raptor**, and **F/A-18 Hornet**.
 
 <p align="center">
-  <img width="720" alt="SU-57 Joystick V5 v53" src="https://github.com/user-attachments/assets/208b57bc-017a-462e-8316-417245c94875" />
-  <img width="876" alt="SU-30sm Joystick V2 v8" src="https://github.com/user-attachments/assets/1cf1e56d-277f-46ae-9259-5d3dfb1a3825" />
-  <img width="720" alt="F-18 Joystick v17" src="https://github.com/user-attachments/assets/427fb63a-2681-4cf9-a7c4-b8166cb68b93" />
-  <img width="876" alt="F 22 Joystick v24" src="https://github.com/user-attachments/assets/d5ad2825-a5a3-488a-874c-024b5ed98492" />
+<img height="720" alt="Sticks" src="https://github.com/user-attachments/assets/862238b3-da74-4452-a03e-fe7b341a8c90" />
 </p>
 
 ### 2. Twin Engine Throttle
@@ -78,8 +77,7 @@ Multi-axis control for engine and avionics management.
 * **Throttle Variants:** Dual-throttle configurations based on the **Su-57 Felon** and **F-22 Raptor**.
 
 <p align="center">
-  <img width="720" alt="ThrottleV5 v37" src="https://github.com/user-attachments/assets/ad36f37d-df54-4dd0-8e6d-52c25b13db43" />
-  <img width="692" alt="RaptorThrottle 1" src="https://github.com/user-attachments/assets/39fc8e13-be4b-4303-a7ca-ff3d74343f58" />
+<img height="720" alt="Throttles" src="https://github.com/user-attachments/assets/dacdda7d-5a87-41d1-826e-7dd4c5c71089" />
 </p>
 
 ### 3. Black Shark Helicopter Collective
@@ -88,7 +86,7 @@ Rotary-wing collective pitch lever with twist throttle.
 * **Mechanical Design:** Swappable grip connected through a 4-pin 360° pogo connector.
 
 <p align="center">
- <img width="720" height="720" alt="collective grip V2" src="https://github.com/user-attachments/assets/8dc8e75e-06f4-4db2-a991-6f350031d4f6" />
+ <img height="720" alt="collective grip V2" src="https://github.com/user-attachments/assets/8dc8e75e-06f4-4db2-a991-6f350031d4f6" />
 </p>
 
 
@@ -97,7 +95,7 @@ Pedal assembly for yaw axis manipulation and independent ground braking.
 * **I/O Capacity:** 3 independent hall-sensor analog axes mapped to Main Yaw (Rudder Axis), Left Toe Brake (Rx) and Right Toe Brake (Ry).
 
 <p align="center">
-  <img width="720" alt="Rudder Pedals v36" src="https://github.com/user-attachments/assets/047e73e6-7729-4134-9959-6f85a6beef7e" />
+  <img height="720" alt="Rudder Pedals v36" src="https://github.com/user-attachments/assets/047e73e6-7729-4134-9959-6f85a6beef7e" />
 </p>
 
 ### 5. Force Feedback (FFB) Joystick Base [In Development]
@@ -105,7 +103,7 @@ Active control system designed to provide realistic Force Feedback dynamics usin
 * **Development Status:** Active prototyping phase.
 
 <p align="center">
-  <img width="729" height="720" alt="FFB Joystick Base FINAL" src="https://github.com/user-attachments/assets/81861a97-d668-4743-9024-d6c802ef2795" />
+  <img height="720" alt="FFB Joystick Base FINAL" src="https://github.com/user-attachments/assets/81861a97-d668-4743-9024-d6c802ef2795" />
 </p>
 
 ---

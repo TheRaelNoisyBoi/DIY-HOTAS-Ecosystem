@@ -100,7 +100,6 @@ Pedal assembly for yaw axis manipulation and independent ground braking.
 
 ### 5. Force Feedback (FFB) Joystick Base [In Development]
 Active control system designed to provide realistic Force Feedback dynamics using cost-effective DIY hardware.
-* **Development Status:** Active prototyping phase.
 
 <p align="center">
   <img height="720" alt="FFB Joystick Base FINAL" src="https://github.com/user-attachments/assets/81861a97-d668-4743-9024-d6c802ef2795" />
